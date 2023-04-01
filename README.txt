@@ -1,3 +1,6 @@
-IN ORDER TO USE THIS PROGRAM ON CHESS.COM, YOU MUST GOT TO SETTINGS > BOARD > PIECE NOTATION and set it to 'text'
-
-IT THEN RUNS VIA A FIREFOX EXTENSION CALLED 'chess.com cheat'
+SETUP: 
+Open firefox
+Go to about:debugging
+Click 'This Firefox' and 'Load Temporary Add-on...'
+Select firefox_extension/manifest.json
+Now the extension is loaded into Firefox and will automatically detect moves on Chess.com! 
