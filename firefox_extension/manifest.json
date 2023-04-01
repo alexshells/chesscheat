@@ -1,10 +1,10 @@
 {
 
   "manifest_version": 2,
-  "name": "Borderify",
+  "name": "Chess.com Cheat",
   "version": "1.0",
 
-  "description": "Adds a red border to all webpages matching mozilla.org.",
+  "description": "CHEAT ON CHESS.COM HEHEHEHAW (for educational purposes)",
 
   "icons": {
     "48": "chess_king.png"
